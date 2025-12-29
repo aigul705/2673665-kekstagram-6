@@ -1,3 +1,4 @@
+'use strict';
 import { sendData } from './api.js';
 
 const SubmitButtonText = {
